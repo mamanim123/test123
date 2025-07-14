@@ -1,0 +1,12 @@
+# 로그 파일
+logs/*.log
+
+# 임시 파일
+*.tmp
+*.bak
+
+# 환경설정
+.env
+
+# 의존성
+node_modules/
